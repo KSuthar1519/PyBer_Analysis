@@ -8,3 +8,5 @@ Based on the table above urban cities had the most number of drivers and the big
 
 ![image](https://user-images.githubusercontent.com/107962343/180126222-b85a33c6-d924-4a55-abaa-f48da0e430d4.png)
 From the graph, it seems like the fare saw an uptick around the month of March, again the above observation is also displayed in the form of a line graph.
+##Summary
+### Looking at the above date, I would like to suggest to the CEO to study the reasons behind the disparities in fare based on city types. One of the reasons for lower fare in urban cities is a greater number of private transport and to remain competitive the drivers are charging less. 
